@@ -1,0 +1,5 @@
+gradle/
+*.bat
+*.i*
+out
+target/
